@@ -1,0 +1,8 @@
+/Users/jeroenriezebeek/Development/workspace_10/basket/src/main/java/nl/riezebeek/basket/data/MemberRepository.java
+/Users/jeroenriezebeek/Development/workspace_10/basket/src/main/java/nl/riezebeek/basket/data/MemberListProducer.java
+/Users/jeroenriezebeek/Development/workspace_10/basket/src/main/java/nl/riezebeek/basket/model/Member.java
+/Users/jeroenriezebeek/Development/workspace_10/basket/src/main/java/nl/riezebeek/basket/rest/MemberResourceRESTService.java
+/Users/jeroenriezebeek/Development/workspace_10/basket/src/main/java/nl/riezebeek/basket/rest/JaxRsActivator.java
+/Users/jeroenriezebeek/Development/workspace_10/basket/src/main/java/nl/riezebeek/basket/util/Resources.java
+/Users/jeroenriezebeek/Development/workspace_10/basket/src/main/java/nl/riezebeek/basket/controller/MemberController.java
+/Users/jeroenriezebeek/Development/workspace_10/basket/src/main/java/nl/riezebeek/basket/service/MemberRegistration.java
